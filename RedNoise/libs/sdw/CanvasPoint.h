@@ -3,7 +3,7 @@
 #include "TexturePoint.h"
 #include <iostream>
 
-struct CanvasPoint {
+struct TexturePointCanvasPoint {
 	float x{};
 	float y{};
 	float depth{};
